@@ -3,7 +3,7 @@ package com.document.sensitive.mask.app;
 import com.document.sensitive.mask.app.utility.DocumentOCR;
 
 /**
- * Hello world!
+ * @author lalamanil
  */
 public class App {
 	public static void main(String[] args) {
